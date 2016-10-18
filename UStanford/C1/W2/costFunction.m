@@ -1,0 +1,1 @@
+function J = costFunction(X,y,theta)% X is the design matrix% y is the class labelsm = size(X,1); % rows of the matrixpredictions = X*theta; % prediction hypothesis on all m examplessqrErrors = (predictions - y).^2; % squared errorsJ = 1/(2*m) * sum(sqrErrors);

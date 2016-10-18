@@ -1,0 +1,17 @@
+# Created by Octave 4.0.3, Sun Oct 16 20:00:53 2016 CDT <alejandrotapia@Alejandros-MacBook-Pro.local>
+# name: v
+# type: matrix
+# rows: 10
+# columns: 1
+ 42
+ 18
+ 21
+ 38
+ 23
+ 34
+ 2
+ 7
+ 33
+ 28
+
+
